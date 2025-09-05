@@ -16,7 +16,7 @@ The population is divided into three groups:
 ---
 
 ## Visualization Output
-Below is the chart created in Excel / Power BI:
+Below is the chart created in Power BI:
 <img width="1195" height="647" alt="image" src="https://github.com/user-attachments/assets/27d285b0-4471-4ccb-bec5-42ac2cda1c0f" />
 
 
