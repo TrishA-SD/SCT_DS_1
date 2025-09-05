@@ -17,7 +17,8 @@ The population is divided into three groups:
 
 ## Visualization Output
 Below is the chart created in Excel / Power BI:
-<img width="1285" height="718" alt="image" src="https://github.com/user-attachments/assets/7117b379-a267-4925-84f2-e9e48e03f80e" />
+<img width="1195" height="647" alt="image" src="https://github.com/user-attachments/assets/27d285b0-4471-4ccb-bec5-42ac2cda1c0f" />
+
 
 
 
@@ -32,7 +33,6 @@ India and China benefit from a large working-age group (15–64 years), which is
 ---
 
 ## Repository Contents
-population_age_structure.xlsx → Source dataset & Excel chart  
 population_age_structure.png → Final visualization  
 
 ---
